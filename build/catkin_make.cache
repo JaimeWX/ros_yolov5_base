@@ -1,0 +1,2 @@
+my_detect
+-DCATKIN_DEVEL_PREFIX=/home/jaime/wwws/ros_yolov5/devel -DCMAKE_INSTALL_PREFIX=/home/jaime/wwws/ros_yolov5/install -G Unix Makefiles
